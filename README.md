@@ -24,4 +24,4 @@ This project is a simple password generator web application built using HTML, CS
 
 ## Credits
 
-This project was created by [Your Name].
+This project was created by addidevelopers.
